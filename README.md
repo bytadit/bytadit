@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditya Bagus Pratama
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Science Project
+- 👀 I’m interested in Web Development and Cloud Computing
+- 🌱 I’m currently Learning Java, PHP, and JavaScript
+- 💞️ I’m looking to collaborate on Open Source Web Application
 - 📫 You can visit my repo and my website (bytadit.com) to get more about me
 
 <!---
