@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Cloud Computing
 - 🌱 I’m currently Learning Python, PHP, and JavaScript
 - 💞️ I’m looking to collaborate on Open Source Web Application
-- 📫 You can visit my repo and my website [bytadit.com](https://bytadit.com) to get more about me
+- 📫 You can visit my repo and my website [bytadit.com](https://bytadit.com)(under construction) to get more about me
 
 <!---
 bytadit/bytadit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
