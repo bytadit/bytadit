@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditya Bagus Pratama
 - 👀 I love Internet
 - 🌱 Currently Learning Python, PHP, and JavaScript
-- 💞️ I'm interested in The Technology of Search Engine and Web Automation
+- 💞️ I'm interested in The Technology of Search Engine and Web Scrapping
 - 📫 You can visit my website [bytadit.com](https://bytadit.com)(under construction) to get more about me
 
 <!---
