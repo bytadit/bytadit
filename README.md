@@ -16,7 +16,11 @@
 
 - [Resoomer]: Using T5 Transformer to summarize text in Indonesian Language
 - [Churn Probability on Transactional Data]: Calculate & Identify Customer Churn Probability in MarketPlace using Unsupervised Transactional Data
-
+- [SINORA] : Web Based Meeting Notula using Laravel + Livewire
+- [Ideal-Theme] : Hugo SSG Theme using Tailwind CSS, made for portfolio-blog website
+- [Exist] : Web Based Expert System for Intelligence Detection using Forward Chaining Method
+- [OpenSID-Crawl] : An API Harvester App using Laravel & JWT
+- [Bts-Monitoring] : Web-Based Information System for Monitoring BTS
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
