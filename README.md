@@ -33,11 +33,11 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+<!-- ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) -->
+<!-- ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) -->
+<!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) -->
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+<!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB) -->
 
 <!-- ## GitHub Stats -->
 
