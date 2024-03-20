@@ -6,7 +6,7 @@
 
 🔭 I’m currently studying Computer Science <br>
 🌱 I’m interested in NLP and affective computing <br>
-💼 I have a strong background in backend programming <br>
+💼 I have a strong background in fullstack programming <br>
 🎸 In my free time, I enjoy playing the guitar and singing <br>
 📚 I love reading books and sharing my thoughts on my personal site, [bytadit.me](https://bytadit.me) <br>
 ⚡ My ultimate goal is to create an AI that can better understand humans <br>
