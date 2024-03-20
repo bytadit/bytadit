@@ -15,13 +15,17 @@
   
 ## Projects
 
-- [Resoomer]: Using T5 Transformer to summarize text in Indonesian Language
+- [HS-App]: ML Web App to Detect Hate Speech using Logistic Regression, made using FastApi + Streamlit
+- [Malici-App]: Browser Extension to Detect Malicious URL using Transformers ELECTRA
+- [Bangun-Mulyo-App]: Information System to Modernize Administration Process in BUMDes Bangun Mulyo, made using Laravel & Electron
+- [Resoomer]: Using T5 Transformer to summarize text in Indonesian Language, made using Flask
 - [Churn Probability on Transactional Data]: Calculate & Identify Customer Churn Probability in MarketPlace using Unsupervised Transactional Data
 - [SINORA] : Web Based Meeting Notula using Laravel + Livewire
 - [Ideal-Theme] : Hugo SSG Theme using Tailwind CSS, made for portfolio-blog website
-- [Exist] : Web Based Expert System for Intelligence Detection using Forward Chaining Method
+- [Exist] : Web Based Expert System for Intelligence Detection using Forward Chaining Method, made using Laravel
 - [OpenSID-Crawl] : An API Harvester App using Laravel & JWT
 - [Bts-Monitoring] : Web-Based Information System for Monitoring BTS
+  
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
