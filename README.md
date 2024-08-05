@@ -5,7 +5,7 @@
 ## About Me
 
 🌱 I’m interested in Natural Language Processing & Fraud Detection<br>
-💼 I have a strong background in Fullstack Web Development <br>
+💼 I have a strong background in Fullstack Web Development & Data Science <br>
 🎸 In my free time, I enjoy playing the guitar and watching movies <br>
 📚 I love sharing my projects and thoughts on my personal site, [bytadit.me](https://bytadit.me) <br>
 <!-- ⚡ My ultimate goal is being the part of humans advancements <br> -->
