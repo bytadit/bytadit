@@ -1,6 +1,6 @@
 # Hi world, Adit's here! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<b> "I'm a man of focus, commitment and sheer will"</b><br> I'm fascinated by how machines can mimic human behavior and the process of creating them.
+<b> "I'm a man of focus, commitment and sheer will"</b><br> I'm captivated by the potential of data to drive business profitability
 
 ## About Me
 🎯 My industry focus is financial & marketing <br>
