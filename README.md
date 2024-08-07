@@ -3,9 +3,9 @@
 <b> "I'm a man of focus, commitment and sheer will"</b><br> I'm fascinated by how machines can mimic human behavior and the process of creating them.
 
 ## About Me
-
-🌱 I’m interested in Natural Language Processing & Fraud Detection<br>
-💼 I have a strong background in Fullstack Web Development & Data Science <br>
+🎯 My industry focus is financial & marketing <br>
+🌱 I’m interested in Natural Language Processing & Fraud Detection <br>
+💼 I have a strong background in Software Development & Data Science Lifecyle <br>
 🎸 In my free time, I enjoy playing the guitar and watching movies <br>
 📚 I love sharing my projects and thoughts on my personal site, [bytadit.me](https://bytadit.me) <br>
 <!-- ⚡ My ultimate goal is being the part of humans advancements <br> -->
