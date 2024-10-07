@@ -3,11 +3,11 @@
 <b> "I'm a man of focus, commitment, and sheer will"</b><br> I'm passionate about building scalable and efficient backend systems.
 
 ## About Me
-🎯 My specialization is in backend development, focusing on building robust applications using Java, JavaScript, Golang, Python, and PHP. <br>  
-💼 I have a strong background in software and API development, with experience in enterprise-level applications. <br>  
-🌱 I’m also interested in integrating machine learning models into backend systems for innovative features. <br>  
-🎸 In my free time, I enjoy playing the guitar and watching movies. <br>  
-📚 I love sharing my projects and thoughts on my personal site, [bytadit.com](https://bytadit.com). <br>
+- 🎯 My specialization is in backend development, focusing on building robust applications using Java, JavaScript, Golang, Python, and PHP. <br>  
+- 💼 I have a strong background in software and API development, with experience in enterprise-level applications. <br>  
+- 🌱 I’m also interested in integrating machine learning models into backend systems for innovative features. <br>  
+- 🎸 In my free time, I enjoy playing the guitar and watching movies. <br>  
+- 📚 I love sharing my projects and thoughts on my personal site, [bytadit.com](https://bytadit.com). <br>
 <!--  
 ## Projects
 
