@@ -1,13 +1,14 @@
 # Hi world, Adit's here! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<b> "I'm a man of focus, commitment, and sheer will"</b><br> I'm passionate about building scalable and efficient backend systems.
+#### <i>"I'm a man of focus, commitment, and sheer will"</b></i>
 
 ## About Me
-- 🎯 My specialization is in backend development, focusing on building robust applications using Java, JavaScript, Golang, Python, and PHP. <br>  
-- 💼 I have a strong background in software and API development, with experience in enterprise-level applications. <br>  
-- 🌱 I’m also interested in integrating machine learning models into backend systems for innovative features. <br>  
-- 🎸 In my free time, I enjoy playing the guitar and watching movies. <br>  
-- 📚 I love sharing my projects and thoughts on my personal site, [bytadit.com](https://bytadit.com). <br>
+#### 🎯 My specialization is in backend system
+#### 💼 I have a strong background in software and API development, with experience in enterprise-level applications
+#### 🌱 I’m also interested in integrating machine learning models into backend systems for innovative features
+#### 🎸 In my free time, I enjoy playing the guitar and watching movies
+#### 📚 I love sharing my projects and thoughts on my personal site, [bytadit.com](https://bytadit.com)
+
 <!--  
 ## Projects
 
@@ -36,6 +37,7 @@
 ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Gin Badge](https://img.shields.io/badge/Gin-008ECF?logo=gin&logoColor=fff&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -81,5 +83,5 @@
 - Personal Site: [bytadit.me](https://bytadit.me)
 - LinkedIn: [aditya-bagus-pratama](https://www.linkedin.com/in/aditya-bagus-pratama/) -->
 
-Feel free to connect with me, collaborate, or reach out to discuss interesting projects or ideas! 😊
+<!-- Feel free to connect with me, collaborate, or reach out to discuss interesting projects or ideas! 😊 -->
 
